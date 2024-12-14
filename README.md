@@ -6,6 +6,11 @@ Movie Recommendation System Using Weighted Ratings
 #### **Overview**  
 This project demonstrates a movie recommendation system leveraging a weighted rating mechanism. The system ranks movies based on user preferences and data insights, considering popularity, ratings, and relevance. It utilizes ratings from sources like **Rotten Tomatoes** for enhanced recommendations.
 
+#### **Outputs**  
+- List of top-rated movies based on the weighted score.  
+- Graphical trends and insights into movie data.
+ ![Output]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/omair22/Movie-Recommendation-Swipe-App/blob/main/Images/Output-Recommendation-1.png))
+
 #### **Key Features**  
 - Calculates weighted ratings using the IMDB formula.  
 - Incorporates ratings and popularity metrics from **Rotten Tomatoes**.  
@@ -67,10 +72,7 @@ Ensure the dataset is uploaded to the same directory as the notebook or adjust t
   - \( m \): Minimum votes required for consideration.  
   - \( C \): Mean rating across all movies.  
 - **Visualization:** Insights are presented via plots for better understanding.  
-#### **Outputs**  
-- List of top-rated movies based on the weighted score.  
-- Graphical trends and insights into movie data.
- 
+
 
 #### **Customization**  
 - Modify parameters like \( m \) or data filters to tailor the recommendation system to specific needs.  
