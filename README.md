@@ -9,7 +9,8 @@ This project demonstrates a movie recommendation system leveraging a weighted ra
 #### **Outputs**  
 - List of top-rated movies based on the weighted score.  
 - Graphical trends and insights into movie data.
- ![Output]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/omair22/Movie-Recommendation-Swipe-App/blob/main/Images/Output-Recommendation-1.png))
+[![Output Recommendation](https://github.com/omair22/Movie-Recommendation-Swipe-App/blob/main/Images/Output-Recommendation-1.png?raw=true)](https://github.com/omair22/Movie-Recommendation-Swipe-App/tree/main)
+
 
 #### **Key Features**  
 - Calculates weighted ratings using the IMDB formula.  
